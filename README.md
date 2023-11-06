@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction
 
-![Power BI Dashboard](dashboard_screenshot.png)
+![Power BI Dashboard](churn_dashboard.png)
 
 This project focuses on predicting customer churn for a telecommunications company using a logistic regression model on the Telco dataset. Additionally, a Power BI dashboard has been created to provide visual insights and a thorough analysis on how to reduce the churn rate.
 
